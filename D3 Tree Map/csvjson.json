@@ -1,0 +1,1074 @@
+[
+  {
+    "": 0,
+    "subregion": "missing",
+    "key": "missing",
+    "value": 1258,
+    "value_1": 75378,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 1,
+    "subregion": "snacks",
+    "key": "candy chocolate",
+    "value": 1246,
+    "value_1": 309082,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 2,
+    "subregion": "frozen",
+    "key": "ice cream ice",
+    "value": 1091,
+    "value_1": 515415,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 3,
+    "subregion": "personal care",
+    "key": "vitamins supplements",
+    "value": 1038,
+    "value_1": 46540,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 4,
+    "subregion": "dairy eggs",
+    "key": "yogurt",
+    "value": 1026,
+    "value_1": 1493853,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 5,
+    "subregion": "snacks",
+    "key": "chips pretzels",
+    "value": 989,
+    "value_1": 745975,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 6,
+    "subregion": "beverages",
+    "key": "tea",
+    "value": 894,
+    "value_1": 256314,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 7,
+    "subregion": "dairy eggs",
+    "key": "packaged cheese",
+    "value": 891,
+    "value_1": 1011020,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 8,
+    "subregion": "frozen",
+    "key": "frozen meals",
+    "value": 880,
+    "value_1": 403968,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 9,
+    "subregion": "snacks",
+    "key": "cookies cakes",
+    "value": 874,
+    "value_1": 241557,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 10,
+    "subregion": "snacks",
+    "key": "energy granola bars",
+    "value": 832,
+    "value_1": 469444,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 11,
+    "subregion": "personal care",
+    "key": "hair care",
+    "value": 816,
+    "value_1": 33125,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 12,
+    "subregion": "pantry",
+    "key": "spices seasonings",
+    "value": 797,
+    "value_1": 219037,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 13,
+    "subregion": "beverages",
+    "key": "juice nectars",
+    "value": 792,
+    "value_1": 344730,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 14,
+    "subregion": "snacks",
+    "key": "crackers",
+    "value": 747,
+    "value_1": 473461,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 15,
+    "subregion": "canned goods",
+    "key": "soup broth bouillon",
+    "value": 737,
+    "value_1": 357747,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 16,
+    "subregion": "babies",
+    "key": "baby food formula",
+    "value": 718,
+    "value_1": 392179,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 17,
+    "subregion": "beverages",
+    "key": "coffee",
+    "value": 680,
+    "value_1": 213369,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 18,
+    "subregion": "beverages",
+    "key": "refrigerated",
+    "value": 675,
+    "value_1": 593342,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 19,
+    "subregion": "household",
+    "key": "cleaning products",
+    "value": 655,
+    "value_1": 122876,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 20,
+    "subregion": "pantry",
+    "key": "baking ingredients",
+    "value": 623,
+    "value_1": 336444,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 21,
+    "subregion": "produce",
+    "key": "packaged vegetables fruits",
+    "value": 615,
+    "value_1": 1824397,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 22,
+    "subregion": "international",
+    "key": "asian foods",
+    "value": 605,
+    "value_1": 171832,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 23,
+    "subregion": "snacks",
+    "key": "nuts seeds dried fruit",
+    "value": 582,
+    "value_1": 315898,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 24,
+    "subregion": "produce",
+    "key": "fresh vegetables",
+    "value": 569,
+    "value_1": 3531214,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 25,
+    "subregion": "personal care",
+    "key": "oral hygiene",
+    "value": 565,
+    "value_1": 66047,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 26,
+    "subregion": "pantry",
+    "key": "salad dressing toppings",
+    "value": 560,
+    "value_1": 102923,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 27,
+    "subregion": "bakery",
+    "key": "bread",
+    "value": 557,
+    "value_1": 602553,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 28,
+    "subregion": "other",
+    "key": "other",
+    "value": 548,
+    "value_1": 37645,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 29,
+    "subregion": "dry goods pasta",
+    "key": "instant foods",
+    "value": 543,
+    "value_1": 208076,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 30,
+    "subregion": "personal care",
+    "key": "soap",
+    "value": 525,
+    "value_1": 66098,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 31,
+    "subregion": "household",
+    "key": "laundry",
+    "value": 506,
+    "value_1": 97798,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 32,
+    "subregion": "personal care",
+    "key": "body lotions soap",
+    "value": 504,
+    "value_1": 42401,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 33,
+    "subregion": "pets",
+    "key": "cat food care",
+    "value": 499,
+    "value_1": 65566,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 34,
+    "subregion": "pantry",
+    "key": "spreads",
+    "value": 493,
+    "value_1": 298466,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 35,
+    "subregion": "canned goods",
+    "key": "canned jarred vegetables",
+    "value": 487,
+    "value_1": 306515,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 36,
+    "subregion": "pets",
+    "key": "dog food care",
+    "value": 473,
+    "value_1": 35542,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 37,
+    "subregion": "pantry",
+    "key": "condiments",
+    "value": 466,
+    "value_1": 229349,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 38,
+    "subregion": "beverages",
+    "key": "soft drinks",
+    "value": 463,
+    "value_1": 369765,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 39,
+    "subregion": "pantry",
+    "key": "doughs gelatins bake mixes",
+    "value": 463,
+    "value_1": 109702,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 40,
+    "subregion": "dry goods pasta",
+    "key": "dry pasta",
+    "value": 457,
+    "value_1": 275129,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 41,
+    "subregion": "breakfast",
+    "key": "cereal",
+    "value": 454,
+    "value_1": 389709,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 42,
+    "subregion": "personal care",
+    "key": "cold flu allergy",
+    "value": 427,
+    "value_1": 27081,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 43,
+    "subregion": "pantry",
+    "key": "marinades meat preparation",
+    "value": 409,
+    "value_1": 64667,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 44,
+    "subregion": "pantry",
+    "key": "pickled goods olives",
+    "value": 402,
+    "value_1": 116299,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 45,
+    "subregion": "dry goods pasta",
+    "key": "pasta sauce",
+    "value": 399,
+    "value_1": 225659,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 46,
+    "subregion": "meat seafood",
+    "key": "hot dogs bacon sausage",
+    "value": 387,
+    "value_1": 315225,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 47,
+    "subregion": "frozen",
+    "key": "frozen appetizers sides",
+    "value": 386,
+    "value_1": 201267,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 48,
+    "subregion": "alcohol",
+    "key": "beers coolers",
+    "value": 385,
+    "value_1": 50061,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 49,
+    "subregion": "produce",
+    "key": "fresh fruits",
+    "value": 382,
+    "value_1": 3755201,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 50,
+    "subregion": "pantry",
+    "key": "oils vinegars",
+    "value": 375,
+    "value_1": 253459,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 51,
+    "subregion": "deli",
+    "key": "lunch meat",
+    "value": 373,
+    "value_1": 407749,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 52,
+    "subregion": "frozen",
+    "key": "frozen produce",
+    "value": 361,
+    "value_1": 539498,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 53,
+    "subregion": "snacks",
+    "key": "fruit vegetable snacks",
+    "value": 356,
+    "value_1": 180787,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 54,
+    "subregion": "household",
+    "key": "air fresheners candles",
+    "value": 355,
+    "value_1": 20617,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 55,
+    "subregion": "beverages",
+    "key": "water seltzer sparkling water",
+    "value": 344,
+    "value_1": 869119,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 56,
+    "subregion": "canned goods",
+    "key": "canned meals beans",
+    "value": 342,
+    "value_1": 279040,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 57,
+    "subregion": "personal care",
+    "key": "digestion",
+    "value": 338,
+    "value_1": 27765,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 58,
+    "subregion": "dry goods pasta",
+    "key": "grains rice dried goods",
+    "value": 336,
+    "value_1": 148829,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 59,
+    "subregion": "frozen",
+    "key": "frozen pizza",
+    "value": 335,
+    "value_1": 167975,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 60,
+    "subregion": "deli",
+    "key": "fresh dips tapenades",
+    "value": 327,
+    "value_1": 367063,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 61,
+    "subregion": "personal care",
+    "key": "protein meal replacements",
+    "value": 325,
+    "value_1": 37798,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 62,
+    "subregion": "household",
+    "key": "paper goods",
+    "value": 322,
+    "value_1": 252386,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 63,
+    "subregion": "personal care",
+    "key": "deodorants",
+    "value": 317,
+    "value_1": 15425,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 64,
+    "subregion": "deli",
+    "key": "prepared meals",
+    "value": 317,
+    "value_1": 102136,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 65,
+    "subregion": "snacks",
+    "key": "popcorn jerky",
+    "value": 316,
+    "value_1": 168756,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 66,
+    "subregion": "household",
+    "key": "more household",
+    "value": 308,
+    "value_1": 18186,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 67,
+    "subregion": "breakfast",
+    "key": "hot cereal pancake mixes",
+    "value": 303,
+    "value_1": 162884,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 68,
+    "subregion": "bakery",
+    "key": "bakery desserts",
+    "value": 297,
+    "value_1": 36003,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 69,
+    "subregion": "frozen",
+    "key": "frozen breakfast",
+    "value": 296,
+    "value_1": 240062,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 70,
+    "subregion": "beverages",
+    "key": "energy sports drinks",
+    "value": 294,
+    "value_1": 107200,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 71,
+    "subregion": "dairy eggs",
+    "key": "soy lactosefree",
+    "value": 293,
+    "value_1": 657886,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 72,
+    "subregion": "pantry",
+    "key": "baking supplies decor",
+    "value": 290,
+    "value_1": 24520,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 73,
+    "subregion": "personal care",
+    "key": "feminine care",
+    "value": 285,
+    "value_1": 20548,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 74,
+    "subregion": "canned goods",
+    "key": "canned meat seafood",
+    "value": 283,
+    "value_1": 69459,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 75,
+    "subregion": "personal care",
+    "key": "facial care",
+    "value": 277,
+    "value_1": 12732,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 76,
+    "subregion": "dairy eggs",
+    "key": "specialty cheeses",
+    "value": 271,
+    "value_1": 85394,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 77,
+    "subregion": "pantry",
+    "key": "preserved dips spreads",
+    "value": 264,
+    "value_1": 112597,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 78,
+    "subregion": "international",
+    "key": "latino foods",
+    "value": 257,
+    "value_1": 77638,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 79,
+    "subregion": "personal care",
+    "key": "skin care",
+    "value": 245,
+    "value_1": 10557,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 80,
+    "subregion": "canned goods",
+    "key": "canned fruit applesauce",
+    "value": 243,
+    "value_1": 90208,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 81,
+    "subregion": "dairy eggs",
+    "key": "milk",
+    "value": 243,
+    "value_1": 915514,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 82,
+    "subregion": "bakery",
+    "key": "tortillas flat bread",
+    "value": 241,
+    "value_1": 199636,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 83,
+    "subregion": "personal care",
+    "key": "first aid",
+    "value": 240,
+    "value_1": 11268,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 84,
+    "subregion": "alcohol",
+    "key": "red wines",
+    "value": 232,
+    "value_1": 36120,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 85,
+    "subregion": "pantry",
+    "key": "honeys syrups nectars",
+    "value": 229,
+    "value_1": 69045,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 86,
+    "subregion": "frozen",
+    "key": "frozen meat seafood",
+    "value": 229,
+    "value_1": 74243,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 87,
+    "subregion": "bakery",
+    "key": "breakfast bakery",
+    "value": 226,
+    "value_1": 258150,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 88,
+    "subregion": "beverages",
+    "key": "cocoa drink mixes",
+    "value": 223,
+    "value_1": 22018,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 89,
+    "subregion": "household",
+    "key": "kitchen supplies",
+    "value": 218,
+    "value_1": 9497,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 90,
+    "subregion": "household",
+    "key": "food storage",
+    "value": 206,
+    "value_1": 68135,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 91,
+    "subregion": "household",
+    "key": "dish detergents",
+    "value": 204,
+    "value_1": 97794,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 92,
+    "subregion": "household",
+    "key": "plates bowls cups flatware",
+    "value": 199,
+    "value_1": 44793,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 93,
+    "subregion": "personal care",
+    "key": "shave needs",
+    "value": 198,
+    "value_1": 10745,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 94,
+    "subregion": "bakery",
+    "key": "buns rolls",
+    "value": 195,
+    "value_1": 116845,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 95,
+    "subregion": "alcohol",
+    "key": "spirits",
+    "value": 195,
+    "value_1": 28788,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 96,
+    "subregion": "dairy eggs",
+    "key": "other creams cheeses",
+    "value": 191,
+    "value_1": 317621,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 97,
+    "subregion": "frozen",
+    "key": "frozen vegan vegetarian",
+    "value": 189,
+    "value_1": 102889,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 98,
+    "subregion": "babies",
+    "key": "diapers wipes",
+    "value": 187,
+    "value_1": 25426,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 99,
+    "subregion": "breakfast",
+    "key": "granola",
+    "value": 185,
+    "value_1": 104819,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 100,
+    "subregion": "personal care",
+    "key": "beauty",
+    "value": 178,
+    "value_1": 6377,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 101,
+    "subregion": "breakfast",
+    "key": "breakfast bars pastries",
+    "value": 173,
+    "value_1": 74279,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 102,
+    "subregion": "personal care",
+    "key": "muscles joints pain relief",
+    "value": 172,
+    "value_1": 19346,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 103,
+    "subregion": "international",
+    "key": "kosher foods",
+    "value": 169,
+    "value_1": 12282,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 104,
+    "subregion": "snacks",
+    "key": "mint gum",
+    "value": 168,
+    "value_1": 23377,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 105,
+    "subregion": "dairy eggs",
+    "key": "cream",
+    "value": 161,
+    "value_1": 327182,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 106,
+    "subregion": "deli",
+    "key": "tofu meat alternatives",
+    "value": 159,
+    "value_1": 133299,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 107,
+    "subregion": "dairy eggs",
+    "key": "butter",
+    "value": 150,
+    "value_1": 262257,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 108,
+    "subregion": "alcohol",
+    "key": "white wines",
+    "value": 147,
+    "value_1": 31357,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 109,
+    "subregion": "deli",
+    "key": "prepared soups salads",
+    "value": 146,
+    "value_1": 74132,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 110,
+    "subregion": "babies",
+    "key": "baby bath body care",
+    "value": 132,
+    "value_1": 8827,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 111,
+    "subregion": "dairy eggs",
+    "key": "eggs",
+    "value": 125,
+    "value_1": 467168,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 112,
+    "subregion": "dry goods pasta",
+    "key": "fresh pasta",
+    "value": 123,
+    "value_1": 37930,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 113,
+    "subregion": "personal care",
+    "key": "eye ear care",
+    "value": 113,
+    "value_1": 9385,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 114,
+    "subregion": "frozen",
+    "key": "frozen dessert",
+    "value": 112,
+    "value_1": 20040,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 115,
+    "subregion": "household",
+    "key": "trash bags liners",
+    "value": 112,
+    "value_1": 33274,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 116,
+    "subregion": "international",
+    "key": "indian foods",
+    "value": 108,
+    "value_1": 16448,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 117,
+    "subregion": "meat seafood",
+    "key": "meat counter",
+    "value": 105,
+    "value_1": 73289,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 118,
+    "subregion": "meat seafood",
+    "key": "packaged meat",
+    "value": 100,
+    "value_1": 35003,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 119,
+    "subregion": "meat seafood",
+    "key": "packaged poultry",
+    "value": 99,
+    "value_1": 122611,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 120,
+    "subregion": "dairy eggs",
+    "key": "refrigerated pudding desserts",
+    "value": 98,
+    "value_1": 38933,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 121,
+    "subregion": "alcohol",
+    "key": "specialty wines champagnes",
+    "value": 95,
+    "value_1": 11543,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 122,
+    "subregion": "produce",
+    "key": "fresh herbs",
+    "value": 86,
+    "value_1": 389744,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 123,
+    "subregion": "snacks",
+    "key": "ice cream toppings",
+    "value": 85,
+    "value_1": 11589,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 124,
+    "subregion": "meat seafood",
+    "key": "poultry counter",
+    "value": 82,
+    "value_1": 133453,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 125,
+    "subregion": "frozen",
+    "key": "frozen breads doughs",
+    "value": 81,
+    "value_1": 41317,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 126,
+    "subregion": "meat seafood",
+    "key": "packaged seafood",
+    "value": 80,
+    "value_1": 21617,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 127,
+    "subregion": "snacks",
+    "key": "trail mix snack mix",
+    "value": 69,
+    "value_1": 36684,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 128,
+    "subregion": "meat seafood",
+    "key": "seafood counter",
+    "value": 54,
+    "value_1": 30444,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 129,
+    "subregion": "frozen",
+    "key": "frozen juice",
+    "value": 47,
+    "value_1": 5075,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 130,
+    "subregion": "babies",
+    "key": "baby accessories",
+    "value": 44,
+    "value_1": 8393,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 131,
+    "subregion": "produce",
+    "key": "packaged produce",
+    "value": 32,
+    "value_1": 286186,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 132,
+    "subregion": "bulk",
+    "key": "bulk grains rice dried goods",
+    "value": 26,
+    "value_1": 17668,
+    "region": "Instacart Online Grocery Shopping"
+  },
+  {
+    "": 133,
+    "subregion": "bulk",
+    "key": "bulk dried fruits vegetables",
+    "value": 12,
+    "value_1": 17932,
+    "region": "Instacart Online Grocery Shopping"
+  }
+]

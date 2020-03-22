@@ -1,0 +1,940 @@
+[
+  {
+    "": 0,
+    "subregion": "produce",
+    "key": "fresh fruits",
+    "value": 3755201,
+    "region": "Instacart"
+  },
+  {
+    "": 1,
+    "subregion": "produce",
+    "key": "fresh vegetables",
+    "value": 3531214,
+    "region": "Instacart"
+  },
+  {
+    "": 2,
+    "subregion": "produce",
+    "key": "packaged vegetables fruits",
+    "value": 1824397,
+    "region": "Instacart"
+  },
+  {
+    "": 3,
+    "subregion": "dairy eggs",
+    "key": "yogurt",
+    "value": 1493853,
+    "region": "Instacart"
+  },
+  {
+    "": 4,
+    "subregion": "dairy eggs",
+    "key": "packaged cheese",
+    "value": 1011020,
+    "region": "Instacart"
+  },
+  {
+    "": 5,
+    "subregion": "dairy eggs",
+    "key": "milk",
+    "value": 915514,
+    "region": "Instacart"
+  },
+  {
+    "": 6,
+    "subregion": "beverages",
+    "key": "water seltzer sparkling water",
+    "value": 869119,
+    "region": "Instacart"
+  },
+  {
+    "": 7,
+    "subregion": "snacks",
+    "key": "chips pretzels",
+    "value": 745975,
+    "region": "Instacart"
+  },
+  {
+    "": 8,
+    "subregion": "dairy eggs",
+    "key": "soy lactosefree",
+    "value": 657886,
+    "region": "Instacart"
+  },
+  {
+    "": 9,
+    "subregion": "bakery",
+    "key": "bread",
+    "value": 602553,
+    "region": "Instacart"
+  },
+  {
+    "": 10,
+    "subregion": "beverages",
+    "key": "refrigerated",
+    "value": 593342,
+    "region": "Instacart"
+  },
+  {
+    "": 11,
+    "subregion": "frozen",
+    "key": "frozen produce",
+    "value": 539498,
+    "region": "Instacart"
+  },
+  {
+    "": 12,
+    "subregion": "frozen",
+    "key": "ice cream ice",
+    "value": 515415,
+    "region": "Instacart"
+  },
+  {
+    "": 13,
+    "subregion": "snacks",
+    "key": "crackers",
+    "value": 473461,
+    "region": "Instacart"
+  },
+  {
+    "": 14,
+    "subregion": "snacks",
+    "key": "energy granola bars",
+    "value": 469444,
+    "region": "Instacart"
+  },
+  {
+    "": 15,
+    "subregion": "dairy eggs",
+    "key": "eggs",
+    "value": 467168,
+    "region": "Instacart"
+  },
+  {
+    "": 16,
+    "subregion": "deli",
+    "key": "lunch meat",
+    "value": 407749,
+    "region": "Instacart"
+  },
+  {
+    "": 17,
+    "subregion": "frozen",
+    "key": "frozen meals",
+    "value": 403968,
+    "region": "Instacart"
+  },
+  {
+    "": 18,
+    "subregion": "babies",
+    "key": "baby food formula",
+    "value": 392179,
+    "region": "Instacart"
+  },
+  {
+    "": 19,
+    "subregion": "produce",
+    "key": "fresh herbs",
+    "value": 389744,
+    "region": "Instacart"
+  },
+  {
+    "": 20,
+    "subregion": "breakfast",
+    "key": "cereal",
+    "value": 389709,
+    "region": "Instacart"
+  },
+  {
+    "": 21,
+    "subregion": "beverages",
+    "key": "soft drinks",
+    "value": 369765,
+    "region": "Instacart"
+  },
+  {
+    "": 22,
+    "subregion": "deli",
+    "key": "fresh dips tapenades",
+    "value": 367063,
+    "region": "Instacart"
+  },
+  {
+    "": 23,
+    "subregion": "canned goods",
+    "key": "soup broth bouillon",
+    "value": 357747,
+    "region": "Instacart"
+  },
+  {
+    "": 24,
+    "subregion": "beverages",
+    "key": "juice nectars",
+    "value": 344730,
+    "region": "Instacart"
+  },
+  {
+    "": 25,
+    "subregion": "pantry",
+    "key": "baking ingredients",
+    "value": 336444,
+    "region": "Instacart"
+  },
+  {
+    "": 26,
+    "subregion": "dairy eggs",
+    "key": "cream",
+    "value": 327182,
+    "region": "Instacart"
+  },
+  {
+    "": 27,
+    "subregion": "dairy eggs",
+    "key": "other creams cheeses",
+    "value": 317621,
+    "region": "Instacart"
+  },
+  {
+    "": 28,
+    "subregion": "snacks",
+    "key": "nuts seeds dried fruit",
+    "value": 315898,
+    "region": "Instacart"
+  },
+  {
+    "": 29,
+    "subregion": "meat seafood",
+    "key": "hot dogs bacon sausage",
+    "value": 315225,
+    "region": "Instacart"
+  },
+  {
+    "": 30,
+    "subregion": "snacks",
+    "key": "candy chocolate",
+    "value": 309082,
+    "region": "Instacart"
+  },
+  {
+    "": 31,
+    "subregion": "canned goods",
+    "key": "canned jarred vegetables",
+    "value": 306515,
+    "region": "Instacart"
+  },
+  {
+    "": 32,
+    "subregion": "pantry",
+    "key": "spreads",
+    "value": 298466,
+    "region": "Instacart"
+  },
+  {
+    "": 33,
+    "subregion": "produce",
+    "key": "packaged produce",
+    "value": 286186,
+    "region": "Instacart"
+  },
+  {
+    "": 34,
+    "subregion": "canned goods",
+    "key": "canned meals beans",
+    "value": 279040,
+    "region": "Instacart"
+  },
+  {
+    "": 35,
+    "subregion": "dry goods pasta",
+    "key": "dry pasta",
+    "value": 275129,
+    "region": "Instacart"
+  },
+  {
+    "": 36,
+    "subregion": "dairy eggs",
+    "key": "butter",
+    "value": 262257,
+    "region": "Instacart"
+  },
+  {
+    "": 37,
+    "subregion": "bakery",
+    "key": "breakfast bakery",
+    "value": 258150,
+    "region": "Instacart"
+  },
+  {
+    "": 38,
+    "subregion": "beverages",
+    "key": "tea",
+    "value": 256314,
+    "region": "Instacart"
+  },
+  {
+    "": 39,
+    "subregion": "pantry",
+    "key": "oils vinegars",
+    "value": 253459,
+    "region": "Instacart"
+  },
+  {
+    "": 40,
+    "subregion": "household",
+    "key": "paper goods",
+    "value": 252386,
+    "region": "Instacart"
+  },
+  {
+    "": 41,
+    "subregion": "snacks",
+    "key": "cookies cakes",
+    "value": 241557,
+    "region": "Instacart"
+  },
+  {
+    "": 42,
+    "subregion": "frozen",
+    "key": "frozen breakfast",
+    "value": 240062,
+    "region": "Instacart"
+  },
+  {
+    "": 43,
+    "subregion": "pantry",
+    "key": "condiments",
+    "value": 229349,
+    "region": "Instacart"
+  },
+  {
+    "": 44,
+    "subregion": "dry goods pasta",
+    "key": "pasta sauce",
+    "value": 225659,
+    "region": "Instacart"
+  },
+  {
+    "": 45,
+    "subregion": "pantry",
+    "key": "spices seasonings",
+    "value": 219037,
+    "region": "Instacart"
+  },
+  {
+    "": 46,
+    "subregion": "beverages",
+    "key": "coffee",
+    "value": 213369,
+    "region": "Instacart"
+  },
+  {
+    "": 47,
+    "subregion": "dry goods pasta",
+    "key": "instant foods",
+    "value": 208076,
+    "region": "Instacart"
+  },
+  {
+    "": 48,
+    "subregion": "frozen",
+    "key": "frozen appetizers sides",
+    "value": 201267,
+    "region": "Instacart"
+  },
+  {
+    "": 49,
+    "subregion": "bakery",
+    "key": "tortillas flat bread",
+    "value": 199636,
+    "region": "Instacart"
+  },
+  {
+    "": 50,
+    "subregion": "snacks",
+    "key": "fruit vegetable snacks",
+    "value": 180787,
+    "region": "Instacart"
+  },
+  {
+    "": 51,
+    "subregion": "international",
+    "key": "asian foods",
+    "value": 171832,
+    "region": "Instacart"
+  },
+  {
+    "": 52,
+    "subregion": "snacks",
+    "key": "popcorn jerky",
+    "value": 168756,
+    "region": "Instacart"
+  },
+  {
+    "": 53,
+    "subregion": "frozen",
+    "key": "frozen pizza",
+    "value": 167975,
+    "region": "Instacart"
+  },
+  {
+    "": 54,
+    "subregion": "breakfast",
+    "key": "hot cereal pancake mixes",
+    "value": 162884,
+    "region": "Instacart"
+  },
+  {
+    "": 55,
+    "subregion": "dry goods pasta",
+    "key": "grains rice dried goods",
+    "value": 148829,
+    "region": "Instacart"
+  },
+  {
+    "": 56,
+    "subregion": "meat seafood",
+    "key": "poultry counter",
+    "value": 133453,
+    "region": "Instacart"
+  },
+  {
+    "": 57,
+    "subregion": "deli",
+    "key": "tofu meat alternatives",
+    "value": 133299,
+    "region": "Instacart"
+  },
+  {
+    "": 58,
+    "subregion": "household",
+    "key": "cleaning products",
+    "value": 122876,
+    "region": "Instacart"
+  },
+  {
+    "": 59,
+    "subregion": "meat seafood",
+    "key": "packaged poultry",
+    "value": 122611,
+    "region": "Instacart"
+  },
+  {
+    "": 60,
+    "subregion": "bakery",
+    "key": "buns rolls",
+    "value": 116845,
+    "region": "Instacart"
+  },
+  {
+    "": 61,
+    "subregion": "pantry",
+    "key": "pickled goods olives",
+    "value": 116299,
+    "region": "Instacart"
+  },
+  {
+    "": 62,
+    "subregion": "pantry",
+    "key": "preserved dips spreads",
+    "value": 112597,
+    "region": "Instacart"
+  },
+  {
+    "": 63,
+    "subregion": "pantry",
+    "key": "doughs gelatins bake mixes",
+    "value": 109702,
+    "region": "Instacart"
+  },
+  {
+    "": 64,
+    "subregion": "beverages",
+    "key": "energy sports drinks",
+    "value": 107200,
+    "region": "Instacart"
+  },
+  {
+    "": 65,
+    "subregion": "breakfast",
+    "key": "granola",
+    "value": 104819,
+    "region": "Instacart"
+  },
+  {
+    "": 66,
+    "subregion": "pantry",
+    "key": "salad dressing toppings",
+    "value": 102923,
+    "region": "Instacart"
+  },
+  {
+    "": 67,
+    "subregion": "frozen",
+    "key": "frozen vegan vegetarian",
+    "value": 102889,
+    "region": "Instacart"
+  },
+  {
+    "": 68,
+    "subregion": "deli",
+    "key": "prepared meals",
+    "value": 102136,
+    "region": "Instacart"
+  },
+  {
+    "": 69,
+    "subregion": "household",
+    "key": "laundry",
+    "value": 97798,
+    "region": "Instacart"
+  },
+  {
+    "": 70,
+    "subregion": "household",
+    "key": "dish detergents",
+    "value": 97794,
+    "region": "Instacart"
+  },
+  {
+    "": 71,
+    "subregion": "canned goods",
+    "key": "canned fruit applesauce",
+    "value": 90208,
+    "region": "Instacart"
+  },
+  {
+    "": 72,
+    "subregion": "dairy eggs",
+    "key": "specialty cheeses",
+    "value": 85394,
+    "region": "Instacart"
+  },
+  {
+    "": 73,
+    "subregion": "international",
+    "key": "latino foods",
+    "value": 77638,
+    "region": "Instacart"
+  },
+  {
+    "": 74,
+    "subregion": "missing",
+    "key": "missing",
+    "value": 75378,
+    "region": "Instacart"
+  },
+  {
+    "": 75,
+    "subregion": "breakfast",
+    "key": "breakfast bars pastries",
+    "value": 74279,
+    "region": "Instacart"
+  },
+  {
+    "": 76,
+    "subregion": "frozen",
+    "key": "frozen meat seafood",
+    "value": 74243,
+    "region": "Instacart"
+  },
+  {
+    "": 77,
+    "subregion": "deli",
+    "key": "prepared soups salads",
+    "value": 74132,
+    "region": "Instacart"
+  },
+  {
+    "": 78,
+    "subregion": "meat seafood",
+    "key": "meat counter",
+    "value": 73289,
+    "region": "Instacart"
+  },
+  {
+    "": 79,
+    "subregion": "canned goods",
+    "key": "canned meat seafood",
+    "value": 69459,
+    "region": "Instacart"
+  },
+  {
+    "": 80,
+    "subregion": "pantry",
+    "key": "honeys syrups nectars",
+    "value": 69045,
+    "region": "Instacart"
+  },
+  {
+    "": 81,
+    "subregion": "household",
+    "key": "food storage",
+    "value": 68135,
+    "region": "Instacart"
+  },
+  {
+    "": 82,
+    "subregion": "personal care",
+    "key": "soap",
+    "value": 66098,
+    "region": "Instacart"
+  },
+  {
+    "": 83,
+    "subregion": "personal care",
+    "key": "oral hygiene",
+    "value": 66047,
+    "region": "Instacart"
+  },
+  {
+    "": 84,
+    "subregion": "pets",
+    "key": "cat food care",
+    "value": 65566,
+    "region": "Instacart"
+  },
+  {
+    "": 85,
+    "subregion": "pantry",
+    "key": "marinades meat preparation",
+    "value": 64667,
+    "region": "Instacart"
+  },
+  {
+    "": 86,
+    "subregion": "alcohol",
+    "key": "beers coolers",
+    "value": 50061,
+    "region": "Instacart"
+  },
+  {
+    "": 87,
+    "subregion": "personal care",
+    "key": "vitamins supplements",
+    "value": 46540,
+    "region": "Instacart"
+  },
+  {
+    "": 88,
+    "subregion": "household",
+    "key": "plates bowls cups flatware",
+    "value": 44793,
+    "region": "Instacart"
+  },
+  {
+    "": 89,
+    "subregion": "personal care",
+    "key": "body lotions soap",
+    "value": 42401,
+    "region": "Instacart"
+  },
+  {
+    "": 90,
+    "subregion": "frozen",
+    "key": "frozen breads doughs",
+    "value": 41317,
+    "region": "Instacart"
+  },
+  {
+    "": 91,
+    "subregion": "dairy eggs",
+    "key": "refrigerated pudding desserts",
+    "value": 38933,
+    "region": "Instacart"
+  },
+  {
+    "": 92,
+    "subregion": "dry goods pasta",
+    "key": "fresh pasta",
+    "value": 37930,
+    "region": "Instacart"
+  },
+  {
+    "": 93,
+    "subregion": "personal care",
+    "key": "protein meal replacements",
+    "value": 37798,
+    "region": "Instacart"
+  },
+  {
+    "": 94,
+    "subregion": "other",
+    "key": "other",
+    "value": 37645,
+    "region": "Instacart"
+  },
+  {
+    "": 95,
+    "subregion": "snacks",
+    "key": "trail mix snack mix",
+    "value": 36684,
+    "region": "Instacart"
+  },
+  {
+    "": 96,
+    "subregion": "alcohol",
+    "key": "red wines",
+    "value": 36120,
+    "region": "Instacart"
+  },
+  {
+    "": 97,
+    "subregion": "bakery",
+    "key": "bakery desserts",
+    "value": 36003,
+    "region": "Instacart"
+  },
+  {
+    "": 98,
+    "subregion": "pets",
+    "key": "dog food care",
+    "value": 35542,
+    "region": "Instacart"
+  },
+  {
+    "": 99,
+    "subregion": "meat seafood",
+    "key": "packaged meat",
+    "value": 35003,
+    "region": "Instacart"
+  },
+  {
+    "": 100,
+    "subregion": "household",
+    "key": "trash bags liners",
+    "value": 33274,
+    "region": "Instacart"
+  },
+  {
+    "": 101,
+    "subregion": "personal care",
+    "key": "hair care",
+    "value": 33125,
+    "region": "Instacart"
+  },
+  {
+    "": 102,
+    "subregion": "alcohol",
+    "key": "white wines",
+    "value": 31357,
+    "region": "Instacart"
+  },
+  {
+    "": 103,
+    "subregion": "meat seafood",
+    "key": "seafood counter",
+    "value": 30444,
+    "region": "Instacart"
+  },
+  {
+    "": 104,
+    "subregion": "alcohol",
+    "key": "spirits",
+    "value": 28788,
+    "region": "Instacart"
+  },
+  {
+    "": 105,
+    "subregion": "personal care",
+    "key": "digestion",
+    "value": 27765,
+    "region": "Instacart"
+  },
+  {
+    "": 106,
+    "subregion": "personal care",
+    "key": "cold flu allergy",
+    "value": 27081,
+    "region": "Instacart"
+  },
+  {
+    "": 107,
+    "subregion": "babies",
+    "key": "diapers wipes",
+    "value": 25426,
+    "region": "Instacart"
+  },
+  {
+    "": 108,
+    "subregion": "pantry",
+    "key": "baking supplies decor",
+    "value": 24520,
+    "region": "Instacart"
+  },
+  {
+    "": 109,
+    "subregion": "snacks",
+    "key": "mint gum",
+    "value": 23377,
+    "region": "Instacart"
+  },
+  {
+    "": 110,
+    "subregion": "beverages",
+    "key": "cocoa drink mixes",
+    "value": 22018,
+    "region": "Instacart"
+  },
+  {
+    "": 111,
+    "subregion": "meat seafood",
+    "key": "packaged seafood",
+    "value": 21617,
+    "region": "Instacart"
+  },
+  {
+    "": 112,
+    "subregion": "household",
+    "key": "air fresheners candles",
+    "value": 20617,
+    "region": "Instacart"
+  },
+  {
+    "": 113,
+    "subregion": "personal care",
+    "key": "feminine care",
+    "value": 20548,
+    "region": "Instacart"
+  },
+  {
+    "": 114,
+    "subregion": "frozen",
+    "key": "frozen dessert",
+    "value": 20040,
+    "region": "Instacart"
+  },
+  {
+    "": 115,
+    "subregion": "personal care",
+    "key": "muscles joints pain relief",
+    "value": 19346,
+    "region": "Instacart"
+  },
+  {
+    "": 116,
+    "subregion": "household",
+    "key": "more household",
+    "value": 18186,
+    "region": "Instacart"
+  },
+  {
+    "": 117,
+    "subregion": "bulk",
+    "key": "bulk dried fruits vegetables",
+    "value": 17932,
+    "region": "Instacart"
+  },
+  {
+    "": 118,
+    "subregion": "bulk",
+    "key": "bulk grains rice dried goods",
+    "value": 17668,
+    "region": "Instacart"
+  },
+  {
+    "": 119,
+    "subregion": "international",
+    "key": "indian foods",
+    "value": 16448,
+    "region": "Instacart"
+  },
+  {
+    "": 120,
+    "subregion": "personal care",
+    "key": "deodorants",
+    "value": 15425,
+    "region": "Instacart"
+  },
+  {
+    "": 121,
+    "subregion": "personal care",
+    "key": "facial care",
+    "value": 12732,
+    "region": "Instacart"
+  },
+  {
+    "": 122,
+    "subregion": "international",
+    "key": "kosher foods",
+    "value": 12282,
+    "region": "Instacart"
+  },
+  {
+    "": 123,
+    "subregion": "snacks",
+    "key": "ice cream toppings",
+    "value": 11589,
+    "region": "Instacart"
+  },
+  {
+    "": 124,
+    "subregion": "alcohol",
+    "key": "specialty wines champagnes",
+    "value": 11543,
+    "region": "Instacart"
+  },
+  {
+    "": 125,
+    "subregion": "personal care",
+    "key": "first aid",
+    "value": 11268,
+    "region": "Instacart"
+  },
+  {
+    "": 126,
+    "subregion": "personal care",
+    "key": "shave needs",
+    "value": 10745,
+    "region": "Instacart"
+  },
+  {
+    "": 127,
+    "subregion": "personal care",
+    "key": "skin care",
+    "value": 10557,
+    "region": "Instacart"
+  },
+  {
+    "": 128,
+    "subregion": "household",
+    "key": "kitchen supplies",
+    "value": 9497,
+    "region": "Instacart"
+  },
+  {
+    "": 129,
+    "subregion": "personal care",
+    "key": "eye ear care",
+    "value": 9385,
+    "region": "Instacart"
+  },
+  {
+    "": 130,
+    "subregion": "babies",
+    "key": "baby bath body care",
+    "value": 8827,
+    "region": "Instacart"
+  },
+  {
+    "": 131,
+    "subregion": "babies",
+    "key": "baby accessories",
+    "value": 8393,
+    "region": "Instacart"
+  },
+  {
+    "": 132,
+    "subregion": "personal care",
+    "key": "beauty",
+    "value": 6377,
+    "region": "Instacart"
+  },
+  {
+    "": 133,
+    "subregion": "frozen",
+    "key": "frozen juice",
+    "value": 5075,
+    "region": "Instacart"
+  }
+]

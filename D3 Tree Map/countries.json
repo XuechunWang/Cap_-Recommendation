@@ -1,0 +1,308 @@
+[
+  {
+    "key": "Afghanistan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "value": 25500100
+  },
+  {
+    "key": "Heard Island and McDonald Islands",
+    "region": "",
+    "subregion": "",
+    "value": -1
+  },
+  {
+    "key": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "value": 800
+  },
+  {
+    "key": "Honduras",
+    "region": "Americas",
+    "subregion": "Central America",
+    "value": 8555072
+  },
+  {
+    "key": "Hong Kong",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "value": 7184000
+  },
+  {
+    "key": "Solomon Islands",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "value": 561000
+  },
+  {
+    "key": "Somalia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "value": 10496000
+  },
+  {
+    "key": "South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "value": 52981991
+  },
+  {
+    "key": "South Georgia",
+    "region": "Americas",
+    "subregion": "South America",
+    "value": -1
+  },
+  {
+    "key": "South Korea",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "value": 50219669
+  },
+  {
+    "key": "South Sudan",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "value": 11296000
+  },
+  {
+    "key": "Spain",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "value": 46704314
+  },
+  {
+    "key": "Sri Lanka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "value": 20277597
+  },
+  {
+    "key": "Sudan",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "value": 37964000
+  },
+  {
+    "key": "Suriname",
+    "region": "Americas",
+    "subregion": "South America",
+    "value": 534189
+  },
+  {
+    "key": "Svalbard and Jan Mayen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "value": 2655
+  },
+  {
+    "key": "Swaziland",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "value": 1250000
+  },
+  {
+    "key": "Sweden",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "value": 9625444
+  },
+  {
+    "key": "Switzerland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "value": 8085300
+  },
+  {
+    "key": "Syria",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "value": 21898000
+  },
+  {
+    "key": "Taiwan",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "value": 23361147
+  },
+  {
+    "key": "Tajikistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "value": 8000000
+  },
+  {
+    "key": "Tanzania",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "value": 44928923
+  },
+  {
+    "key": "Thailand",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "value": 65926261
+  },
+  {
+    "key": "Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "value": -1
+  },
+  {
+    "key": "Togo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "value": 6191155
+  },
+  {
+    "key": "Tokelau",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "value": 1411
+  },
+  {
+    "key": "Tonga",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "value": 103036
+  },
+  {
+    "key": "Trinidad and Tobago",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "value": 1328019
+  },
+  {
+    "key": "Tunisia",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "value": 10833431
+  },
+  {
+    "key": "Turkey",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "value": 75627384
+  },
+  {
+    "key": "Turkmenistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "value": 5240000
+  },
+  {
+    "key": "Turks and Caicos Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "value": 31458
+  },
+  {
+    "key": "Tuvalu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "value": 11323
+  },
+  {
+    "key": "Uganda",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "value": 35357000
+  },
+  {
+    "key": "Ukraine",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "value": 45461627
+  },
+  {
+    "key": "United Arab Emirates",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "value": 8264070
+  },
+  {
+    "key": "United Kingdom",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "value": 63705000
+  },
+  {
+    "key": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "value": 317101000
+  },
+  {
+    "key": "United States Minor Outlying Islands",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "value": -1
+  },
+  {
+    "key": "United States Virgin Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "value": 106405
+  },
+  {
+    "key": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "value": 3286314
+  },
+  {
+    "key": "Uzbekistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "value": 30183400
+  },
+  {
+    "key": "Vanuatu",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "value": 264652
+  },
+  {
+    "key": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "value": 28946101
+  },
+  {
+    "key": "Vietnam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "value": 90388000
+  },
+  {
+    "key": "Wallis and Futuna",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "value": 13135
+  },
+  {
+    "key": "Western Sahara",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "value": 567000
+  },
+  {
+    "key": "Yemen",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "value": 24527000
+  },
+  {
+    "key": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "value": 13092666
+  },
+  {
+    "key": "Zimbabwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "value": 12973808
+  }
+]
